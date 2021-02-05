@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "CombatSpellsNoMaterials",
+    "name": "No Material Costs for Combat Spells",
+    "authors": [ "NoddingCrow" ],
+    "maintainers": [ "N/A" ],
+    "description": "Micro-Mod for Magiclysm, removing material component costs for combat spells.",
+    "category": "content",
+    "dependencies": [ "dda", "magiclysm" ]
+  }
+]

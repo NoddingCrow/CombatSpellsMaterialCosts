@@ -1,0 +1,30 @@
+[
+  {
+    "id": "spell_components_flamesword",
+    "type": "requirement"
+  },
+  {
+    "id": "spell_components_flamebreath",
+    "type": "requirement"
+  },
+  {
+    "id": "spell_components_feralform",
+    "type": "requirement"
+  },
+  {
+    "id": "spell_components_impactsling",
+    "type": "requirement"
+  },
+  {
+    "id": "spell_components_causticaura",
+    "type": "requirement"
+  },
+  {
+    "id": "spell_components_shardspray",
+    "type": "requirement"
+  },
+  {
+    "id": "spell_components_nova_flare",
+    "type": "requirement"
+  }
+]
